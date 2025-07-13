@@ -2,6 +2,10 @@
 
 🎇 React hook for hover/click-based particle effects. Extensible, fun, and easy to use.
 
+![1752428233375](image/README/1752428233375.png)
+
+## Install
+
 ```bash
 npm install partix
 ```
