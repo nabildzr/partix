@@ -5,13 +5,30 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "microbundle"
   },
-  "keywords": ["react", "particles", "effects", "hook", "interactive", "confetti"],
+  "keywords": [
+    "react",
+    "particles",
+    "effects",
+    "hook",
+    "interactive",
+    "confetti"
+  ],
   "author": "Nabildzr",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nabildzr/partix"
+  },
+  "bugs": {
+    "url": "https://github.com/nabildzr/partix/issues"
+  },
+  "homepage": "https://github.com/nabildzr/partix#readme",
   "peerDependencies": {
     "react": "^17 || ^18 || ^19"
   }
