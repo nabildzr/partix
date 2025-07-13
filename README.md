@@ -9,7 +9,7 @@ npm install partix
 ## Usage
 
 ```js
-import partix from "partix";
+import partix from "@nabildzr/partix";
 
 function App() {
   partix({ selector: "btn", trigger: "hover", amount: 10 });
