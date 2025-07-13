@@ -1,6 +1,6 @@
 {
   "name": "partix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for extensible interactive particle effects (hover, click, more).",
   "main": "dist/index.js",
   "module": "dist/index.js",
