@@ -35,7 +35,7 @@ function App() {
 
 If you like my work, consider supporting me:
 
-- [Saweria](https://saweria.co/namakamu)
+- [Saweria](https://saweria.co/nabildzr)
 
 ## License
 
