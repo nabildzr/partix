@@ -31,6 +31,12 @@ function App() {
 | amount   | number   | 5              | Particles per event     |
 | colors   | string[] | preset         | Array of hex/rgb colors |
 
+## ☕ Support
+
+If you like my work, consider supporting me:
+
+- [Saweria](https://saweria.co/namakamu)
+
 ## License
 
 ```txt
