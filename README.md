@@ -2,7 +2,7 @@
 
 🎇 React hook for hover/click-based particle effects. Extensible, fun, and easy to use.
 
-![1752428233375](image/README/1752428233375.png)
+![1752428233375](https://tmpfiles.org/dl/5761799/g03mrah3ci.gif)
 
 ## Install
 
